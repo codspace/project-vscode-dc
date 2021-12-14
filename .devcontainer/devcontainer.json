@@ -1,0 +1,8 @@
+{
+  "name": "Ubuntu",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base",
+  "features": {
+      "microsoft/vscode-dev-containers/github-cli": "latest",
+      "microsoft/vscode-dev-containers/docker-in-docker": "latest"
+  }
+}
